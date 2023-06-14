@@ -1,0 +1,182 @@
+﻿Sl.No,City,State,Charger Name,Address,Latitude,Longitude,Pincode,Charger Type,Qty,Mobile App,CPO Name,Make of Charger
+1,Thiruvananthapuram,Kerala,KSEB DC Nemom,"KSEB Section, Nemom, Thiruvananthapuram",8.45383,77.004068,695020,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+2,Kollam,Kerala,KSEB DC Olai,"High School Junction, Olayil, Kollam",8.89273,76.57897,691009,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+3,Ernakulam,Kerala,KSEB DC Palarivattom,"Palarivattom - Edappally Rd, Palarivattom, Ernakulam",10.00525,76.30495,682025,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+4,Thrissur,Kerala,KSEB DC Viyyur,"Near Viyyur Sub Jail, Viyyur, Thrissur",10.559333,76.217514,680010,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+5,Kozhikode,Kerala,KSEB DC Nallalam,"Calicut Rd, Areekkad, Kozhikode",11.208826,75.808295,673018,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Masstech
+6,Kannur,Kerala,KSEB DC Chovva,"SH66, Melechowa South, Kannur",11.868869,75.403036,670331,CCS 2 30kW,1,chargeMOD,KSEB,Masstech
+7,Ernakulam,Kerala,KSEB DC Mattanchery,"Near Santhom Church, Thoppumpadi, Ernakulam",9.932897,76.252741,682507,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,Level 1 3.3kW,1,chargeMOD,KSEB,Okaya
+8,Palakkad,Kerala,KSEB DC Kootanad,"Near Sub Station, Koottanad, Palakkad",10.758434,76.130534,679533,CCS 2 30kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+9,Ernakulam,Kerala,KSEB DC Kothamangalam,"Near Sub Station, Kothamangalam, Ernakulam",10.05411,76.615471,686691,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,Level 1 3.3kW,1,chargeMOD,KSEB,Okaya
+10,Kollam,Kerala,KSEB DC Karunagappally,"Opposite Govt. Girls High School, Karunagappally, Kollam",9.059285,76.534115,690573,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,Level 1 3.3kW,1,chargeMOD,KSEB,Okaya
+11,Kollam,Kerala,KSEB DC Kottarakkara,"Kottarakkara - Edakkidom - Nedumankavu Rd, Kottarakkara, Kollam",8.99928,76.76914,691506,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+12,Idukki,Kerala,KSEB DC Thodupuzha,"Near KSEB Section Office, Thodupuzha, Idukki",9.892131,76.708519,685608,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+13,Kottayam,Kerala,KSEB DC Kottayam,"Opposite Just Overseas Studies Pvt. Ltd, Baker Hill, Kottayam",9.592393,76.525203,686002,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+14,Kottayam,Kerala,KSEB DC Pallom,"Near KSEB TMR Division, Pallom, Kottayam",9.542873,76.514119,686007,CHadeMO 60kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,CCS 2 30kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+15,Pathanamthitta,Kerala,KSEB DC Pathanamthitta,"Near 110kV Sub Station, Power House Junction, Pathanamthitta",9.255476,76.782968,689645,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+16,Pathanamthitta,Kerala,KSEB DC Thiruvalla,"Near KSEB Sub Station, Thiruvalla, Pathanamthitta",9.385287,76.584821,689105,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Okaya
+17,Pathanamthitta,Kerala,KSEB DC Pamba,"Pamba - Sabarimala Rd, Mannarkulanji, Pamba, Pathanamthitta",9.412544,77.070062,689662,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+18,Palakkad,Kerala,KSEB DC Nenmara,"Near KSEB Sub Station, Nenmara, Palakkad",10.59392,76.583623,678508,CCS 2 30kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+19,Thiruvananthapuram,Kerala,KSEB DC Paruthipara,"Near KSEB Office, Paruthippara, Thiruvananthapuram",8.535051,76.942231,695004,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+20,Wayanad,Kerala,KSEB DC Banasura Sagar,"Banasura Sagar Dam Parking, Padinjarathara, Wayanad",11.673154,75.957409,673122,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+21,Alappuzha,Kerala,KSEB DC Punnapra,"Near KSEB 220 KV SUBSTATION, Kuravanthodu, Punnapra, Alappuzha",9.425684,76.346805,688005,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Okaya
+22,Thiruvananthapuram,Kerala,KSEB DC Vydyuthi Bhavan,"Vydyuthi Bhavan, Vrindavan Gardens, Pattom, Thiruvananthapuram",8.516602,76.93938,695004,CCS 2 30kW,2,chargeMOD,KSEB,Okaya
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Okaya
+23,Thiruvananthapuram,Kerala,KSEB DC Neyyattinkara,"Near KSEB Section Office, Neyyattinkara, Thiruvananthapuram",8.408533,77.082152,695126,CHAdeMO 60kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,CCS 2 30kW,1,chargeMOD,KSEB,Okaya
+24,Palakkad,Kerala,KSEB DC Vadakkenchery,"Near KSEB Sub Station, Vadakkanchery, Palakkad",10.597953,76.479818,678683,CHAdeMO 60kW,1,chargeMOD,KSEB,Okaya
+,,,,,,,,CCS 2 30kW,1,chargeMOD,KSEB,Okaya
+25,Ernakulam,Kerala,KSEB DC Muvattupuzha,"Near KSEB Sub Station, Pezhakkappilly, Ernakulam",10.015961,76.565445,686674,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+26,Kottayam,Kerala,KSEB DC Gandhi Nagar,"Medical College Rd, Gandhi Nagar, Arpookara, Kottayam",9.632747,76.524427,686008,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Tirex
+27,Idukki,Kerala,KSEB DC Moolamattam,"Near KSEB Section Office, Moolamattom, Idukki",9.788973,76.85397,685589,,,,KSEB,Tirex
+28,Kasargod,Kerala,KSEB DC Kanjangad,"Near 110kV Sub Station, Mavungal, Kanhangad, Kasargod",12.342456,75.112643,671531,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Tirex
+29,Malappuram,Kerala,KSEB DC Tirur,"Thazhepalam, Tirur, Malappuram",10.916269,75.918271,676101,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Tirex
+30,Idukki,Kerala,KSEB DC Munnar,"MSA Rd, Moolakadai, Munnar, Idukki",10.069388,77.061261,685612,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+31,Palakkad,Kerala,KSEB DC Shornur,"Palakkad - Ponnani Rd, Kulappully, Palakkad",10.779782,76.285377,679122,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Tirex
+32,Wayanad,Kerala,KSEB DC Vaithiri,"Near KSEB Section, Vythiri, Wayanad",11.545852,76.039386,673576,CCS 2 30kW,2,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,3,chargeMOD,KSEB,Tirex
+33,Ernakulam,Kerala,KSEB DC Vyttila,"Opposite KSEB Sub Station, Vyttila, Ernakulam",9.96288,76.319297,682019,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+34,Ernakulam,Kerala,KSEB DC Kaloor,"Near JLN Metro Station, Kaloor, Ernakulam",10.000251,76.298403,682017,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+35,Kollam,Kerala,KSEB DC Kottiyam,"Kottiyam - kundara Rd, Kottiyam, Kollam",8.86663,76.668874,691571,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+36,Ernakulam,Kerala,KSEB DC Angamaly,"Angamaly South, Angamaly, Ernakulam",10.172005,76.373209,683589,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+37,Ernakulam,Kerala,KSEB DC North Paravoor,"Aluva - Paroor Rd, North Paravoor, Ernakulam",10.1457,76.256814,683520,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+38,Malappuram,Kerala,KSEB DC Malappuram,"Near Sub Station, Cheri Road, Munduparamba, Malappuram",11.054428,76.092109,676509,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+39,Ernakulam,Kerala,KSEB DC CGRF,"Near KSEB Section Office, North Kalamassery, Kalamassery, Ernakulam",10.053711,76.330729,683104,CCS 2 30kW ,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,4,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+40,Kollam,Kerala,KSEB DC Kundara,"Mamoodu Junction, Chandanathope, Kollam",8.957035,76.67094,691014,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+41,Ernakulam,Kerala,KSEB DC Gandhi Nagar,"Gandhi Nagar, Elamkulam, Ernakulam",9.974111,76.293637,682020,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+42,Kozhikode,Kerala,KSEB DC Pavangad,"Near KSEB Sub Station, Pavanangad, Kozhikode",11.312846,75.758575,673021,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+43,Kozhikode,Kerala,KSEB DC Kuttikattoor,"Near KSEB Sub Station, Velliparamba, Kozhikode",11.269434,75.853855,673008,GB/T 15kW,5,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 7kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,6,chargeMOD,KSEB,chargeMOD
+44,Kozhikode,Kerala,KSEB DC Thamarassery,"Near KSEB Sub Station, Thamarassery, Kozhikode",11.443922,75.955806,673615,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+45,Kozhikode,Kerala,KSEB DC Ramanattukara,"Krishi Bhavan Rd, Poovannur Palli, Ramanattukara, Kozhikode",11.178697,75.86296,673632,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+46,Kozhikode,Kerala,KSEB DC Adivaram,"Near KSEB Section, Engapuzha, Kedavur, Adivaram, Kozhikode",11.46770872,75.96960002,673586,,,chargeMOD,KSEB,Tirex
+47,Thiruvananthapuram,Kerala,KSEB DC Avanavanchery,"Near KSEB 110kV Sub Station, Avanavanchery, Attingal, Thiruvananthapuram",8.691063,76.848526,695103,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+48,Kozhikode,Kerala,KSEB DC Koyilandy,"Near 110kV Sub Station, Ulliyeri, Kozhikode",11.446535,75.740436,673327,GB/T 15kW,5,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,Level 1 3.3kW,6,chargeMOD,KSEB,Tirex
+49,Malappuram,Kerala,KSEB DC Ponnani,"Near KSEB Sub Station, Ponnani, Malappuram",10.772645,75.947164,679586,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+50,Kozhikode,Kerala,KSEB DC Gandhi Road,"Gandhi Road, Vellayil, Kozhikode",11.262863,75.768144,673032,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+51,Kannur,Kerala,KSEB DC Kannur,"Near Sub Station, Manjappalam, Kannur",11.878202,75.359486,670014,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+52,Kannur,Kerala,KSEB DC Valapattanam,"Near KSEB Section, Valappattanam, Kannur",11.91853,75.35122,670010,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHadeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+53,Thrissur,Kerala,KSEB DC Kodungallur,"Near KSEB Office, Kodungalloor, Thrissur",10.227655,6.212044,680664,CCS 2 30kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,CHAdeMO 60kW,1,chargeMOD,KSEB,Tirex
+,,,,,,,,GB/T 15kW,3,chargeMOD,KSEB,Tirex
+,,,,,,,,Type 2 22kW,1,chargeMOD,KSEB,Tirex
+54,Thrissur,Kerala,KSEB DC Kandassankadav,"F4J5+2MJ, Manalur, Thrissur",10.48002584,76.10913916,680612,GB/T 15kW,5,chargeMOD,KSEB,Indus-Delta
+,,,,,,,,Type 2 7kW,1,chargeMOD,KSEB,Indus-Delta
+,,,,,,,,Level 1 3.3kW,2,chargeMOD,KSEB,Indus-Delta
+55,Thrissur,Kerala,KSEB DC Madakkatara,"Near KSEB Sub Station, Thrissur",10.56063971,76.27007243,680656,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+56,Thrissur,Kerala,KSEB DC Kunnamkulam,"Near KSEB Sub Station, Kanipayyur, Thrissur",10.63292173,76.0857441,680517,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+57,Thrissur,Kerala,KSEB DC Chalakudy,"Near KSEB Sub Station, Chalakudy - Anamala Rd, Chalakudy, Thrissur",10.31126056,76.34021998,680307,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+58,Thrissur,Kerala,KSEB DC Valappad,"Near KSEB Sub Station, Substation Quarters Rd, Valapad, Thrissur",10.40156896,76.11916768,680567,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+59,Thrissur,Kerala,KSEB DC Thrissur,"Near Vydyuthi Bhavan, Kottappuram Rd, Kottappuram, Thrissur",10.52795309,76.20535481,680004,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+60,Thrissur,Kerala,KSEB DC Irinjalakkuda,"Near KSEB Sub Station, Irinjalakuda - Kodungallur Rd, Kolothumpady, Irinjalakuda, Thrissur",10.33147081,76.21533034,680121,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+61,Thrissur,Kerala,KSEB DC Ollur,"Near KSEB Office, Ollur Industrial Estate, Ollur, Thrissur",10.4669143,76.24531684,680306,CCS 2 30kW ,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,CHAdeMO 60kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,GB/T 15kW,4,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 22kW,1,Kurrent Charge,KSEB,Indus-Delta
+62,Thrissur,Kerala,KSEB DC Wadakkanchery,"Vadakkanchery - Padur Rd, Karayankadu, Vadakkencherry, Thrissur",10.59755483,76.47980377,678683,GB/T 15kW,5,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Type 2 7kW,1,Kurrent Charge,KSEB,Indus-Delta
+,,,,,,,,Level 1 3.3kW,2,Kurrent Charge,KSEB,Indus-Delta
+63,Palakkad,Kerala,KSEB DC Vadakarapathy,"Nattukal Coimbatore Road, SH26, Opp Oliva Fuels, Palakkad",10.80948128,76.84632794,678557,,,chargeMOD,KSEB,
